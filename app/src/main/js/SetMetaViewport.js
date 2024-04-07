@@ -1,25 +1,3 @@
-/*
- * The contents of this file are subject to the Common Public Attribution License Version 1.0.
- * (the "License"); you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at:
- * https://github.com/Slion/Fulguris/blob/main/LICENSE.CPAL-1.0.
- * The License is based on the Mozilla Public License Version 1.1, but Sections 14 and 15 have been
- * added to cover use of software over a computer network and provide for limited attribution for
- * the Original Developer. In addition, Exhibit A has been modified to be consistent with Exhibit B.
- *
- * Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF
- * ANY KIND, either express or implied. See the License for the specific language governing rights
- * and limitations under the License.
- *
- * The Original Code is Fulguris.
- *
- * The Original Developer is the Initial Developer.
- * The Initial Developer of the Original Code is Stéphane Lenclud.
- *
- * All portions of the code written by Stéphane Lenclud are Copyright © 2020 Stéphane Lenclud.
- * All Rights Reserved.
- */
-
 {
     'use strict';
     // Just call our entry point
@@ -44,7 +22,7 @@
         // Remove all existing meta viewport elements
         metaViewports.forEach((aMetaViewport) => {
           //log("remove meta viewport: " + aMetaViewport.outerHTML);
-          if (aMetaViewport.hasAttribute('data-fulguris')) {
+          if (aMetaViewport.hasAttribute('data-magic')) {
             // We already injected our own meta viewport, don't remove it
             metaViewport = aMetaViewport
             log("found our meta viewport");
@@ -66,10 +44,10 @@
         var widthOrg = window.innerWidth;
 
         // Check if that meta viewport is ours
-        if (metaViewport.hasAttribute('data-fulguris')) {
+        if (metaViewport.hasAttribute('data-magic')) {
             // We already did our thing, bail out then
             log("meta viewport already set");
-            widthOrg = metaViewport.getAttribute('data-fulguris');
+            widthOrg = metaViewport.getAttribute('data-magic');
             log("set it again anyway");
             // We notably can't return here for walmart.com otherwise desktop mode ain't working for some reason
             //return;
@@ -82,7 +60,7 @@
         // By saving the original width we avoid growing on every resize
         // The downside of that is that if there is a genuine activity resize user will need to reload the page for desktop mode to update
         // TODO: Could we somehow distinguish genuine resize from resize we did trigger and then actually update our original size
-        metaViewport.setAttribute('data-fulguris', widthOrg);
+        metaViewport.setAttribute('data-magic', widthOrg);
         // Add meta viewport element to our DOM
         // Setting this will trigger a resize event
         head.appendChild(metaViewport);
@@ -112,7 +90,7 @@
      * @param aString String to log
      */
     function log(aString) {
-        console.log("Fulguris: " + aString);
+        console.log("Magic: " + aString);
     }
 
     // Reapply our meta viewport again whenever our page is resized

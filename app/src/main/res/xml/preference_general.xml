@@ -9,7 +9,7 @@
 
         <!-- Empty default: we use an empty string to indicate "system default" language being selected -->
         <!--suppress AndroidDomInspection -->
-        <fulguris.settings.preferences.LocaleListPreference
+        <com.lin.magic.settings.preferences.LocaleListPreference
             android:defaultValue=""
             android:key="@string/pref_key_locale"
             android:title="@string/pref_title_language"
@@ -54,7 +54,7 @@
 
         <!-- This option is broken since we introduced sessions.
              Just hide it until we sort this out.
-             See: https://github.com/Slion/Fulguris/issues/147
+             See: https://github.com/Slion/Magic/issues/147
         -->
         <SwitchPreferenceCompat
             android:defaultValue="true"

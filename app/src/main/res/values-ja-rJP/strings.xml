@@ -125,9 +125,9 @@
     <string name="licenses">オープンソース ライセンス</string>
     <string name="suggestion">検索 :</string>
     <string name="checking_for_updates">アップデートを確認しています…</string>
-    <string name="title_updated">Fulgurisが更新されました</string>
+    <string name="title_updated">Magicが更新されました</string>
     <string name="message_updated">v%sを実行しています。オンラインでリリースノートを確認しますか？</string>
-    <string name="title_welcome">Fulgurisへようこそ</string>
+    <string name="title_welcome">Magicへようこそ</string>
     <string name="message_welcome">このパワフルなWebブラウザの詳細については、ホームページをご覧ください。</string>
     <!-- Ad block -->
     <string name="block_ads">コンテンツ制御</string>
@@ -256,7 +256,7 @@
     <string name="settings_privacy">プライバシー</string>
     <string name="settings_about">このアプリについて</string>
     <string name="settings_contribute">貢献する</string>
-    <string name="settings_summary_contribute">Fulgurisの成長と成功を助けます</string>
+    <string name="settings_summary_contribute">Magicの成長と成功を助けます</string>
     <string name="settings_title_privacy_policy">プライバシーポリシー</string>
     <string name="settings_summary_privacy_policy">プライバシーポリシーをオンラインで見る</string>
     <string name="settings_title_terms_and_conditions">利用規約</string>
@@ -303,17 +303,17 @@
     <string name="pref_title_desktop_width">デスクトップの幅</string>
     <string name="pref_summary_desktop_width">デスクトップモードの横幅の表示領域です。小さいコンテンツには高く設定します。</string>
     <string name="pref_title_no_sponsorship">アプリ内スポンサーシップは利用できません</string>
-    <string name="pref_summary_no_sponsorship">FulgurisをGooglePlayから使うことで援助ができます</string>
+    <string name="pref_summary_no_sponsorship">MagicをGooglePlayから使うことで援助ができます</string>
     <string name="pref_title_free_download">無料ダウンロード</string>
-    <string name="pref_summary_free_download">Fulgurisはオープンソースソフトウェアです。完全な機能セットと無制限のタブを含む無料版をダウンロードできます。</string>
+    <string name="pref_summary_free_download">Magicはオープンソースソフトウェアです。完全な機能セットと無制限のタブを含む無料版をダウンロードできます。</string>
     <string name="pref_title_sponsorship_github">GitHub で支援</string>
     <string name="pref_summary_sponsorship_github">あなたはこのプロジェクトを成功させるためにGitHubでの活動を支援することができます。</string>
     <string name="pref_title_sponsorship_five_stars">5つ星レビュー</string>
     <string name="pref_summary_sponsorship_five_stars">Google Playで5つ星のレビューを提供することは、このプロジェクトを支援する素晴らしい方法です。</string>
     <string name="pref_title_contribute_translations">翻訳</string>
-    <string name="pref_summary_contribute_translations">CrowdinでFulgurisをあなたの言語に翻訳するのを手伝うことができます</string>
+    <string name="pref_summary_contribute_translations">CrowdinでMagicをあなたの言語に翻訳するのを手伝うことができます</string>
     <string name="pref_title_contribute_share">みんなに広めましょう</string>
-    <string name="pref_summary_contribute_share">Fulgurisを共有することで、あなたの友人やコミュニティを魅了します。</string>
+    <string name="pref_summary_contribute_share">Magicを共有することで、あなたの友人やコミュニティを魅了します。</string>
     <string name="pref_title_language">言語</string>
     <string name="language_system_default">システムのデフォルト</string>
     <string name="close_tab">現在のタブを閉じる</string>
@@ -503,7 +503,7 @@ See: https://stackoverflow.com/a/42884713/3969362
     <string name="tts">ページを読み上げる</string>
     <string name="stop_tts">読み上げを停止</string>
     <!-- Application name which can be translated -->
-    <string name="locale_app_name">Fulguris Web Browser</string>
+    <string name="locale_app_name">Magic Web Browser</string>
     <!--
     Long press on image link disambiguation:
         When user does a long press on a page element containing both an image and link we ask her which one she wants to use.

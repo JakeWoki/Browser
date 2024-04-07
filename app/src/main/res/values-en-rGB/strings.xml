@@ -125,9 +125,9 @@
     <string name="licenses">Open Source Licences</string>
     <string name="suggestion">Search for</string>
     <string name="checking_for_updates">Checking for updates…</string>
-    <string name="title_updated">Fulguris was updated</string>
+    <string name="title_updated">Magic was updated</string>
     <string name="message_updated">You are now running v%s. Do you want to check release notes online?</string>
-    <string name="title_welcome">Welcome to Fulguris</string>
+    <string name="title_welcome">Welcome to Magic</string>
     <string name="message_welcome">Visit our home page to find out more about this powerful web browser?</string>
     <!-- Ad block -->
     <string name="block_ads">Content control</string>
@@ -256,7 +256,7 @@
     <string name="settings_privacy">Privacy</string>
     <string name="settings_about">About</string>
     <string name="settings_contribute">Contribute</string>
-    <string name="settings_summary_contribute">Help Fulguris grow and succeed</string>
+    <string name="settings_summary_contribute">Help Magic grow and succeed</string>
     <string name="settings_title_privacy_policy">Privacy Policy</string>
     <string name="settings_summary_privacy_policy">See our privacy policy online</string>
     <string name="settings_title_terms_and_conditions">Terms &amp; Conditions</string>
@@ -303,17 +303,17 @@
     <string name="pref_title_desktop_width">Desktop width</string>
     <string name="pref_summary_desktop_width">Desktop mode viewport width, set it higher for smaller content</string>
     <string name="pref_title_no_sponsorship">In-app sponsorship not available</string>
-    <string name="pref_summary_no_sponsorship">Use Fulguris from Google Play to sponsor us.</string>
+    <string name="pref_summary_no_sponsorship">Use Magic from Google Play to sponsor us.</string>
     <string name="pref_title_free_download">Free download</string>
-    <string name="pref_summary_free_download">Fulguris is Open Source Software. You can download our free edition including full feature set and unlimited tabs.</string>
+    <string name="pref_summary_free_download">Magic is Open Source Software. You can download our free edition including full feature set and unlimited tabs.</string>
     <string name="pref_title_sponsorship_github">Sponsor us on GitHub</string>
     <string name="pref_summary_sponsorship_github">You can sponsor our work on GitHub to help make this project a success.</string>
     <string name="pref_title_sponsorship_five_stars">Five stars review</string>
     <string name="pref_summary_sponsorship_five_stars">Giving us a five stars review on Google Play is a great way to help this project.</string>
     <string name="pref_title_contribute_translations">Translations</string>
-    <string name="pref_summary_contribute_translations">You can help translate Fulguris to your locale language on Crowdin.</string>
+    <string name="pref_summary_contribute_translations">You can help translate Magic to your locale language on Crowdin.</string>
     <string name="pref_title_contribute_share">Spread the word</string>
-    <string name="pref_summary_contribute_share">Dazzle your friends and communities by sharing Fulguris with them.</string>
+    <string name="pref_summary_contribute_share">Dazzle your friends and communities by sharing Magic with them.</string>
     <string name="pref_title_language">Language</string>
     <string name="language_system_default">System default</string>
     <string name="close_tab">Close current tab</string>
@@ -505,7 +505,7 @@ See: https://stackoverflow.com/a/42884713/3969362
     <string name="tts">Read page</string>
     <string name="stop_tts">Stop reading</string>
     <!-- Application name which can be translated -->
-    <string name="locale_app_name">Fulguris Web Browser</string>
+    <string name="locale_app_name">Magic Web Browser</string>
     <!--
     Long press on image link disambiguation:
         When user does a long press on a page element containing both an image and link we ask her which one she wants to use.

@@ -125,9 +125,9 @@
     <string name="licenses">Licences open source</string>
     <string name="suggestion">Recherche</string>
     <string name="checking_for_updates">Recherche de mises à jour…</string>
-    <string name="title_updated">Fulguris a été mis à jour</string>
+    <string name="title_updated">Magic a été mis à jour</string>
     <string name="message_updated">Vous utilisez maintenant v%s. Voulez-vous vérifier les notes de version en ligne ?</string>
-    <string name="title_welcome">Bienvenue sur Fulguris</string>
+    <string name="title_welcome">Bienvenue sur Magic</string>
     <string name="message_welcome">Visiter notre page d\'accueil pour en savoir plus sur ce puissant navigateur web ?</string>
     <!-- Ad block -->
     <string name="block_ads">Contrôle de contenu</string>
@@ -256,7 +256,7 @@
     <string name="settings_privacy">Vie privée</string>
     <string name="settings_about">À propos</string>
     <string name="settings_contribute">Contribuer</string>
-    <string name="settings_summary_contribute">Aidez Fulguris à grandir et à réussir</string>
+    <string name="settings_summary_contribute">Aidez Magic à grandir et à réussir</string>
     <string name="settings_title_privacy_policy">Politique de Confidentialité</string>
     <string name="settings_summary_privacy_policy">Consulter notre politique de confidentialité en ligne</string>
     <string name="settings_title_terms_and_conditions">Conditions générales</string>
@@ -303,17 +303,17 @@
     <string name="pref_title_desktop_width">Largeur du bureau</string>
     <string name="pref_summary_desktop_width">Largeur de la fenêtre d\'affichage du mode Bureau, augmentez sa valeur pour un contenu plus petit</string>
     <string name="pref_title_no_sponsorship">Sponsorisation intégrée non disponible</string>
-    <string name="pref_summary_no_sponsorship">Installez et utilisez Fulguris depuis Google Play pour nous sponsoriser.</string>
+    <string name="pref_summary_no_sponsorship">Installez et utilisez Magic depuis Google Play pour nous sponsoriser.</string>
     <string name="pref_title_free_download">Téléchargement gratuit</string>
-    <string name="pref_summary_free_download">Fulguris est un logiciel Open Source. Vous pouvez télécharger notre édition gratuite incluant l\'ensemble complet des fonctionnalités et des onglets illimités.</string>
+    <string name="pref_summary_free_download">Magic est un logiciel Open Source. Vous pouvez télécharger notre édition gratuite incluant l\'ensemble complet des fonctionnalités et des onglets illimités.</string>
     <string name="pref_title_sponsorship_github">Soutenez-nous sur GitHub</string>
     <string name="pref_summary_sponsorship_github">Vous pouvez sponsoriser notre travail sur GitHub pour contribuer à la réussite de ce projet.</string>
     <string name="pref_title_sponsorship_five_stars">Avis cinq étoiles</string>
     <string name="pref_summary_sponsorship_five_stars">Nous donner un avis à cinq étoiles sur Google Play est un excellent moyen d\'aider ce projet.</string>
     <string name="pref_title_contribute_translations">Traductions</string>
-    <string name="pref_summary_contribute_translations">Vous pouvez aider à traduire Fulguris dans votre langue locale sur Crowdin.</string>
+    <string name="pref_summary_contribute_translations">Vous pouvez aider à traduire Magic dans votre langue locale sur Crowdin.</string>
     <string name="pref_title_contribute_share">Faites passer le mot</string>
-    <string name="pref_summary_contribute_share">Éblouissez vos amis et vos communautés en partageant Fulguris avec eux.</string>
+    <string name="pref_summary_contribute_share">Éblouissez vos amis et vos communautés en partageant Magic avec eux.</string>
     <string name="pref_title_language">Langue</string>
     <string name="language_system_default">Valeur par défaut du système</string>
     <string name="close_tab">Fermer l\'onglet</string>
@@ -505,7 +505,7 @@ See: https://stackoverflow.com/a/42884713/3969362
     <string name="tts">Lire la page</string>
     <string name="stop_tts">Arrêter la lecture</string>
     <!-- Application name which can be translated -->
-    <string name="locale_app_name">Navigateur web Fulguris</string>
+    <string name="locale_app_name">Navigateur web Magic</string>
     <!--
     Long press on image link disambiguation:
         When user does a long press on a page element containing both an image and link we ask her which one she wants to use.

@@ -125,9 +125,9 @@
     <string name="licenses">Open Source-licenser</string>
     <string name="suggestion">Sök efter</string>
     <string name="checking_for_updates">Söker efter uppdateringar…</string>
-    <string name="title_updated">Fulguris uppdaterad</string>
+    <string name="title_updated">Magic uppdaterad</string>
     <string name="message_updated">Du kör nu v%s. Vill du kontrollera versionsfakta online?</string>
-    <string name="title_welcome">Välkommen till Fulguris</string>
+    <string name="title_welcome">Välkommen till Magic</string>
     <string name="message_welcome">Besök vår hemsida för att få veta mer om denna kraftfulla webbläsare?</string>
     <!-- Ad block -->
     <string name="block_ads">Innehållskontroll</string>
@@ -256,7 +256,7 @@
     <string name="settings_privacy">Integritet</string>
     <string name="settings_about">Om</string>
     <string name="settings_contribute">Medverka</string>
-    <string name="settings_summary_contribute">Hjälp Fulguris växa och lyckas</string>
+    <string name="settings_summary_contribute">Hjälp Magic växa och lyckas</string>
     <string name="settings_title_privacy_policy">Privacy Policy</string>
     <string name="settings_summary_privacy_policy">See our privacy policy online</string>
     <string name="settings_title_terms_and_conditions">Terms &amp; Conditions</string>
@@ -303,17 +303,17 @@
     <string name="pref_title_desktop_width">Bredd på skrivbordet</string>
     <string name="pref_summary_desktop_width">Skrivbordsläge vyportbredd, sätt det högre för mindre innehåll</string>
     <string name="pref_title_no_sponsorship">Sponsring i appen är inte tillgänglig</string>
-    <string name="pref_summary_no_sponsorship">Använd Fulguris från Google Play för att sponsra oss.</string>
+    <string name="pref_summary_no_sponsorship">Använd Magic från Google Play för att sponsra oss.</string>
     <string name="pref_title_free_download">Gratis nedladdning</string>
-    <string name="pref_summary_free_download">Fulguris är programvara med öppen källkod. Du kan ladda ner vår kostnadsfria utgåva inklusive full funktionsuppsättning och obegränsade flikar.</string>
+    <string name="pref_summary_free_download">Magic är programvara med öppen källkod. Du kan ladda ner vår kostnadsfria utgåva inklusive full funktionsuppsättning och obegränsade flikar.</string>
     <string name="pref_title_sponsorship_github">Sponsra oss på GitHub</string>
     <string name="pref_summary_sponsorship_github">Du kan sponsra vårt arbete på GitHub för att göra detta projekt till en framgång.</string>
     <string name="pref_title_sponsorship_five_stars">Fem stjärnor recension</string>
     <string name="pref_summary_sponsorship_five_stars">Att ge oss en fem stjärnor recension på Google Play är ett bra sätt att hjälpa detta projekt.</string>
     <string name="pref_title_contribute_translations">Översättningar</string>
-    <string name="pref_summary_contribute_translations">Du kan hjälpa till att översätta Fulguris till ditt lokala språk på Crowdin.</string>
+    <string name="pref_summary_contribute_translations">Du kan hjälpa till att översätta Magic till ditt lokala språk på Crowdin.</string>
     <string name="pref_title_contribute_share">Berätta om oss! </string>
-    <string name="pref_summary_contribute_share">Blända dina vänner och samhällen genom att dela Fulguris med dem.</string>
+    <string name="pref_summary_contribute_share">Blända dina vänner och samhällen genom att dela Magic med dem.</string>
     <string name="pref_title_language">Språk</string>
     <string name="language_system_default">Systemstandard</string>
     <string name="close_tab">Stäng aktuell flik</string>
@@ -505,7 +505,7 @@ See: https://stackoverflow.com/a/42884713/3969362
     <string name="tts">Läsa sidan</string>
     <string name="stop_tts">Sluta läsa</string>
     <!-- Application name which can be translated -->
-    <string name="locale_app_name">Fulguris Webbläsare</string>
+    <string name="locale_app_name">Magic Webbläsare</string>
     <!--
     Long press on image link disambiguation:
         When user does a long press on a page element containing both an image and link we ask her which one she wants to use.

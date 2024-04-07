@@ -125,9 +125,9 @@
     <string name="licenses">Lisensi Open Source</string>
     <string name="suggestion">Cari</string>
     <string name="checking_for_updates">Mengecek adanya pembaruan…</string>
-    <string name="title_updated">Versi Fulguris sekarang sudah yang terbaru</string>
+    <string name="title_updated">Versi Magic sekarang sudah yang terbaru</string>
     <string name="message_updated">Anda sedang menggunakan v%s. Maukah Anda membaca catatan pengeluarannya?</string>
-    <string name="title_welcome">Selamat datang di Fulguris</string>
+    <string name="title_welcome">Selamat datang di Magic</string>
     <string name="message_welcome">Mau mengunjungi beranda kami untuk tahu lebih banyak tentang browser ini?</string>
     <!-- Ad block -->
     <string name="block_ads">Pengaturan untuk isi halaman</string>
@@ -254,9 +254,9 @@
     <string name="settings_title_landscape">@string/pref_category_landscape</string>
     <string name="settings_title_add_configuration">Add configuration</string>
     <string name="settings_privacy">Privasi</string>
-    <string name="settings_about">Mengenai Fulguris</string>
+    <string name="settings_about">Mengenai Magic</string>
     <string name="settings_contribute">Berkontribusi</string>
-    <string name="settings_summary_contribute">Membantu Fulguris tumbuh dan berkembang</string>
+    <string name="settings_summary_contribute">Membantu Magic tumbuh dan berkembang</string>
     <string name="settings_title_privacy_policy">Kebijakan Privasi</string>
     <string name="settings_summary_privacy_policy">Lihat kebijakan privasi kami secara daring</string>
     <string name="settings_title_terms_and_conditions">Syarat &amp; Ketentuan</string>
@@ -303,17 +303,17 @@
     <string name="pref_title_desktop_width">Lebarnya desktop</string>
     <string name="pref_summary_desktop_width">Naikkan jika isi halaman berukuran kecil</string>
     <string name="pref_title_no_sponsorship">Sponsor dalam aplikasi tidak tersedia</string>
-    <string name="pref_summary_no_sponsorship">Gunakan Fulguris dari Google Play untuk mensponsori kami.</string>
+    <string name="pref_summary_no_sponsorship">Gunakan Magic dari Google Play untuk mensponsori kami.</string>
     <string name="pref_title_free_download">Unduh gratis</string>
-    <string name="pref_summary_free_download">Fulguris adalah sebuah software Open Source. Anda bisa mengunduhnya secara gratis, termasuk fitur selengkapnya dan juga jumlah tab yang tidak terbatas.</string>
+    <string name="pref_summary_free_download">Magic adalah sebuah software Open Source. Anda bisa mengunduhnya secara gratis, termasuk fitur selengkapnya dan juga jumlah tab yang tidak terbatas.</string>
     <string name="pref_title_sponsorship_github">Beri sumbangan lewat Github</string>
     <string name="pref_summary_sponsorship_github">Anda bisa menyumbang lewat Github untuk membantu keberhasilan proyek ini.</string>
     <string name="pref_title_sponsorship_five_stars">Ulasan dengan lima bintang</string>
     <string name="pref_summary_sponsorship_five_stars">Dukung kami dengan memberikan lima bintang di Google Play.</string>
     <string name="pref_title_contribute_translations">Terjemahan</string>
-    <string name="pref_summary_contribute_translations">Anda bisa membantu menerjemahkan Fulguris ke dalam bahasa Anda di Crowdin.</string>
+    <string name="pref_summary_contribute_translations">Anda bisa membantu menerjemahkan Magic ke dalam bahasa Anda di Crowdin.</string>
     <string name="pref_title_contribute_share">Beritahukan ke orang lain</string>
-    <string name="pref_summary_contribute_share">Perkenalkan Fulguris kepada orang-orang disekitar anda.</string>
+    <string name="pref_summary_contribute_share">Perkenalkan Magic kepada orang-orang disekitar anda.</string>
     <string name="pref_title_language">Bahasa</string>
     <string name="language_system_default">Bawaan sistem</string>
     <string name="close_tab">Tutup tab ini</string>
@@ -503,7 +503,7 @@ See: https://stackoverflow.com/a/42884713/3969362
     <string name="tts">Baca halaman ini</string>
     <string name="stop_tts">Hentikan pembacaan halaman ini</string>
     <!-- Application name which can be translated -->
-    <string name="locale_app_name">Fulguris Web Browser</string>
+    <string name="locale_app_name">Boundary Web Browser</string>
     <!--
     Long press on image link disambiguation:
         When user does a long press on a page element containing both an image and link we ask her which one she wants to use.

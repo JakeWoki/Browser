@@ -1,35 +1,35 @@
-# Fulguris
+# Magic
 [![Discord Invite](https://img.shields.io/discord/828559272752840713?color=%23525dea&label=Chat&logo=discord&logoColor=white)](https://discord.com/invite/7M4Ms5dMZE)
 
-Fulguris is a [web browser] for Android. Through a customizable interface it offers a premium experience on a range of Android, Chromebooks and Windows 11 devices.
+Magic is a [web browser] for Android. Through a customizable interface it offers a premium experience on a range of Android, Chromebooks and Windows 11 devices.
 
 # Builds
-[![Google Play](https://github.com/Slion/Fulguris/actions/workflows/build-main-fulguris-google-play.yml/badge.svg)](https://github.com/Slion/Fulguris/actions/workflows/build-main-fulguris-google-play.yml)
-[![Download](https://github.com/Slion/Fulguris/actions/workflows/build-main-fulguris-download.yml/badge.svg)](https://github.com/Slion/Fulguris/actions/workflows/build-main-fulguris-download.yml)
-[![F-Droid](https://github.com/Slion/Fulguris/actions/workflows/build-main-fulguris-fdroid.yml/badge.svg)](https://github.com/Slion/Fulguris/actions/workflows/build-main-fulguris-fdroid.yml)
-[![Rebrand](https://github.com/Slion/Fulguris/actions/workflows/build-main-styx.yml/badge.svg)](https://github.com/Slion/Fulguris/actions/workflows/build-main-styx.yml)
+[![Google Play](https://github.com/Slion/Magic/actions/workflows/build-main-Magic-google-play.yml/badge.svg)](https://github.com/Slion/Magic/actions/workflows/build-main-Magic-google-play.yml)
+[![Download](https://github.com/Slion/Magic/actions/workflows/build-main-magic-download.yml/badge.svg)](https://github.com/Slion/Magic/actions/workflows/build-main-magic-download.yml)
+[![F-Droid](https://github.com/Slion/Magic/actions/workflows/build-main-magic-fdroid.yml/badge.svg)](https://github.com/Slion/Magic/actions/workflows/build-main-magic-fdroid.yml)
+[![Rebrand](https://github.com/Slion/Magic/actions/workflows/build-main-styx.yml/badge.svg)](https://github.com/Slion/Magic/actions/workflows/build-main-styx.yml)
 
 # Downloads
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=net.slions.fulguris.full.playstore)
+alt="Get it on Google Play"
+height="80">](https://play.google.com/store/apps/details?id=net.slions.magic.full.playstore)
 [<img src="https://slions.net/badge-get-it-on.png"
-     alt="Get it on Slions"
-     height="80">](http://fulguris.slions.net)
+alt="Get it on Slions"
+height="80">](http://magic.slions.net)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/net.slions.fulguris.full.fdroid/)
+alt="Get it on F-Droid"
+height="80">](https://f-droid.org/packages/net.slions.magic.full.fdroid/)
 
 ## Release channels
-We have three official public release channels linked above and described below. While we strive to produce stable releases, the Fulguris project is a very small operation. Ultimately the community is responsible for doing the testing and validation of releases. All three variants of the app can be installed at the same time on your device. They are effectively three distinct similar apps. You can differenciate them in your launcher from their slightly modified icon design. Which versions you use and how you manage your updates will define your experience with Fulguris. Update often to help catch bugs before they reach too many users. Wait a couple of weeks and check for known issues before updating if you want to have fewer surprises and a more stable experience.
+We have three official public release channels linked above and described below. While we strive to produce stable releases, the Magic project is a very small operation. Ultimately the community is responsible for doing the testing and validation of releases. All three variants of the app can be installed at the same time on your device. They are effectively three distinct similar apps. You can differenciate them in your launcher from their slightly modified icon design. Which versions you use and how you manage your updates will define your experience with Magic. Update often to help catch bugs before they reach too many users. Wait a couple of weeks and check for known issues before updating if you want to have fewer surprises and a more stable experience.
 
 ### 🟢 Google Play
 
 Considered the most stable release channel. Optional [Firebase] statistics and crash report.
 If you have more than twenty tabs in a session, it will gently remind you to go for the low cost yearly subscription, every time you open a new tab.
 
-### 🟡 Download 
+### 🟡 Download
 
 Provides release candidates and stable releases. Optional [Firebase] statistics and crash report.
 Unlimited tabs without subscription. From here you get the most up to date versions.
@@ -44,21 +44,21 @@ We have no direct control of the release schedule on this channel. If a broken r
 
 ## Test
 
-The best way to contribute is to use Fulguris. There is no beta test program yet. However releases tend to be published more often on [Slions.net] and it is easy to switch back to an [earlier version] if needed.
-Please report issues on [GitHub](https://github.com/slion/fulguris/issues).
+The best way to contribute is to use Magic. There is no beta test program yet. However releases tend to be published more often on [Slions.net] and it is easy to switch back to an [earlier version] if needed.
+Please report issues on [GitHub](https://github.com/slion/magic/issues).
 
 ## Rate
 
 Give us ⭐⭐⭐⭐⭐ on [Google Play].  
-If you don't think it is worth five stars yet then just [open an issue](https://github.com/slion/fulguris/issues) instead. 
+If you don't think it is worth five stars yet then just [open an issue](https://github.com/slion/magic/issues) instead.
 
 ## Engage
 
-You can engage with us on [our forums], on [GitHub](https://github.com/slion/fulguris/issues), on [Discord] or any other social media you can track us down to.
+You can engage with us on [our forums], on [GitHub](https://github.com/slion/magic/issues), on [Discord] or any other social media you can track us down to.
 
 ## Translate
 
-Please go ahead and translate on [CrowdIn](https://crowdin.com/project/fulguris-web-browser).
+Please go ahead and translate on [CrowdIn](https://crowdin.com/project/magic-web-browser).
 
 ## Code
 Code contributions are of course welcome, both bug fix and features.
@@ -110,16 +110,16 @@ The ability of this project to finance itself is what will ultimately determine 
 
 # Tools
 
-Here are some of the tools we use to develop Fulguris:
+Here are some of the tools we use to develop Magic:
 
 * [Android Studio]
 * [SVG path editor]: Most useful to quickly modify icons
 * [Affinity Designer]: Vector graphics
 
 
-[slions.net]: https://slions.net/resources/fulguris.10/
-[earlier version]: https://slions.net/resources/fulguris.10/history
-[Google Play]: https://play.google.com/store/apps/details?id=net.slions.fulguris.full.playstore
+[slions.net]: https://slions.net/resources/magic.10/
+[earlier version]: https://slions.net/resources/magic.10/history
+[Google Play]: https://play.google.com/store/apps/details?id=net.slions.magic.full.playstore
 [our forums]: https://slions.net
 [Discord]: https://discord.com/invite/7M4Ms5dMZE
 [Web browser]: https://en.wikipedia.org/wiki/Web_browser

@@ -19,7 +19,7 @@
         android:focusableInTouchMode="true"
         android:focusable="true">
 
-        <fulguris.view.ImageView
+        <com.lin.magic.view.ImageView
             android:id="@+id/search_ssl_status"
             android:layout_width="36dp"
             android:layout_height="match_parent"
@@ -30,7 +30,7 @@
             android:focusable="false"
             android:contentDescription="@null" />
 
-        <fulguris.view.SearchView
+        <com.lin.magic.view.SearchView
             android:id="@+id/search"
             android:layout_width="0dp"
             android:layout_height="match_parent"

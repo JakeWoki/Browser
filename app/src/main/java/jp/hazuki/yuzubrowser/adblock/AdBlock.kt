@@ -16,8 +16,8 @@
 
 package jp.hazuki.yuzubrowser.adblock
 
-import fulguris.adblock.AbpBlockerManager.Companion.MIME_TYPE_UNKNOWN
-import fulguris.adblock.AbpBlockerManager.Companion.getMimeTypeFromExtension
+import com.lin.magic.adblock.AbpBlockerManager.Companion.MIME_TYPE_UNKNOWN
+import com.lin.magic.adblock.AbpBlockerManager.Companion.getMimeTypeFromExtension
 import android.net.Uri
 import android.webkit.WebResourceRequest
 import jp.hazuki.yuzubrowser.adblock.core.ContentRequest

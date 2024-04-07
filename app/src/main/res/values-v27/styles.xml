@@ -3,7 +3,7 @@
 
     <!--
     We used those to support cutouts
-    See: https://github.com/Slion/Fulguris/issues/603
+    See: https://github.com/Slion/Magic/issues/603
     However I reckon we better do that in code and make it configurable.
     See: https://stackoverflow.com/a/58361683/3969362
 

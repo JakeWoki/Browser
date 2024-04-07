@@ -16,8 +16,8 @@
 
 package jp.hazuki.yuzubrowser.adblock.filter.abp
 
-import fulguris.adblock.RES_EMPTY
-import fulguris.adblock.RES_NOOP_MP4
+import com.lin.magic.adblock.RES_EMPTY
+import com.lin.magic.adblock.RES_NOOP_MP4
 import androidx.core.net.toUri
 import jp.hazuki.yuzubrowser.adblock.core.ContentRequest
 import jp.hazuki.yuzubrowser.adblock.filter.unified.*

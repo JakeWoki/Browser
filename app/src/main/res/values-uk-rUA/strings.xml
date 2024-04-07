@@ -125,9 +125,9 @@
     <string name="licenses">Ліцензії з відкритим кодом</string>
     <string name="suggestion">Шукати</string>
     <string name="checking_for_updates">Перевірка оновлень…</string>
-    <string name="title_updated">Fulguris оновлено</string>
+    <string name="title_updated">Magic оновлено</string>
     <string name="message_updated">Тепер ви використовуєте v%s. Хочете переглянути примітки до випуску?</string>
-    <string name="title_welcome">Ласкаво просимо в Fulguris</string>
+    <string name="title_welcome">Ласкаво просимо в Magic</string>
     <string name="message_welcome">Відвідати нашу домашню сторінку, щоб дізнатися більше про цей потужний веббраузер?</string>
     <!-- Ad block -->
     <string name="block_ads">Керування вмістом</string>
@@ -256,7 +256,7 @@
     <string name="settings_privacy">Приватність</string>
     <string name="settings_about">Про програму</string>
     <string name="settings_contribute">Співпраця</string>
-    <string name="settings_summary_contribute">Допомогти Fulguris розвиватися і досягти успіхів</string>
+    <string name="settings_summary_contribute">Допомогти Magic розвиватися і досягти успіхів</string>
     <string name="settings_title_privacy_policy">Політика конфіденційності</string>
     <string name="settings_summary_privacy_policy">Перегляньте нашу політику конфіденційності онлайн</string>
     <string name="settings_title_terms_and_conditions">Умови та положення</string>
@@ -303,17 +303,17 @@
     <string name="pref_title_desktop_width">Ширина стільниці</string>
     <string name="pref_summary_desktop_width">Ширина режиму стільниці, встановіть її більше для меншого вмісту</string>
     <string name="pref_title_no_sponsorship">Спонсорство в додатку не доступне</string>
-    <string name="pref_summary_no_sponsorship">Щоб підтримати нас, використовуйте Fulguris з Google Play.</string>
+    <string name="pref_summary_no_sponsorship">Щоб підтримати нас, використовуйте Magic з Google Play.</string>
     <string name="pref_title_free_download">Завантажити безкоштовно</string>
-    <string name="pref_summary_free_download">Fulguris — це програмне забезпечення з відкритим кодом. Ви можете завантажити нашу безплатну версію, яка містить повний набір можливостей і необмежену кількість вкладок.</string>
+    <string name="pref_summary_free_download">Magic — це програмне забезпечення з відкритим кодом. Ви можете завантажити нашу безплатну версію, яка містить повний набір можливостей і необмежену кількість вкладок.</string>
     <string name="pref_title_sponsorship_github">Підтримайте нас на GitHub</string>
     <string name="pref_summary_sponsorship_github">Ви можете спонсорувати нашу роботу на GitHub, щоб допомогти зробити цей проєкт успішним.</string>
     <string name="pref_title_sponsorship_five_stars">П\'ятизірковий відгук</string>
     <string name="pref_summary_sponsorship_five_stars">Відгук на п\'ять зірок в Google Play - це чудовий спосіб допомогти цьому проєкту.</string>
     <string name="pref_title_contribute_translations">Переклади</string>
-    <string name="pref_summary_contribute_translations">Ви можете перекласти Fulguris своєю локальною мовою на Crowdin.</string>
+    <string name="pref_summary_contribute_translations">Ви можете перекласти Magic своєю локальною мовою на Crowdin.</string>
     <string name="pref_title_contribute_share">Розповісти світу</string>
-    <string name="pref_summary_contribute_share">Здивуйте своїх друзів та спільноти поділившись із ними Fulguris.</string>
+    <string name="pref_summary_contribute_share">Здивуйте своїх друзів та спільноти поділившись із ними Magic.</string>
     <string name="pref_title_language">Мова</string>
     <string name="language_system_default">Типова для системи</string>
     <string name="close_tab">Закрити поточну вкладку</string>
@@ -509,7 +509,7 @@ See: https://stackoverflow.com/a/42884713/3969362
     <string name="tts">Прочитати сторінку</string>
     <string name="stop_tts">Зупинити читання</string>
     <!-- Application name which can be translated -->
-    <string name="locale_app_name">Fulguris Web Browser</string>
+    <string name="locale_app_name">Magic Web Browser</string>
     <!--
     Long press on image link disambiguation:
         When user does a long press on a page element containing both an image and link we ask her which one she wants to use.

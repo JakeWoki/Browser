@@ -124,7 +124,7 @@
 
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://github.com/Slion/Fulguris/blob/main/LICENSE-CPAL-1.0">
+                android:data="https://github.com/Slion/Magic/blob/main/LICENSE-CPAL-1.0">
                 <extra
                     android:name="SOURCE"
                     android:value="SELF" />

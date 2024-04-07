@@ -57,7 +57,7 @@
             app:tooltipText="@{@string/action_forward}"
             app:srcCompat="@drawable/ic_action_forward" />
 
-        <fulguris.icon.TabCountView
+        <com.lin.magic.icon.TabCountView
             android:id="@+id/tabs_button"
             style="?android:attr/actionButtonStyle"
             android:layout_width="42dp"

@@ -125,9 +125,9 @@
     <string name="licenses">Licence otvorenog koda</string>
     <string name="suggestion">Traži</string>
     <string name="checking_for_updates">Provjera ažuriranja…</string>
-    <string name="title_updated">Fulguris je ažuriran</string>
+    <string name="title_updated">Magic je ažuriran</string>
     <string name="message_updated">Sada koristite v%s. Želite li provjeriti bilješke o izdanju na mreži?</string>
-    <string name="title_welcome">Dobrodošli u Fulguris</string>
+    <string name="title_welcome">Dobrodošli u Magic</string>
     <string name="message_welcome">Posjetite našu početnu stranicu da saznate više o ovom moćnom web pretražniku?</string>
     <!-- Ad block -->
     <string name="block_ads">Kontrola sadržaja</string>
@@ -256,7 +256,7 @@
     <string name="settings_privacy">Postavke privatnosti</string>
     <string name="settings_about">O programu</string>
     <string name="settings_contribute">Doprinesite</string>
-    <string name="settings_summary_contribute">Pomozite Fulgurisu da raste i uspije</string>
+    <string name="settings_summary_contribute">Pomozite Magicu da raste i uspije</string>
     <string name="settings_title_privacy_policy">Politika privatnosti</string>
     <string name="settings_summary_privacy_policy">Pogledajte našu politiku privatnosti na mreži</string>
     <string name="settings_title_terms_and_conditions">Odredbe i Uslovi</string>
@@ -303,17 +303,17 @@
     <string name="pref_title_desktop_width">Širina radne površine</string>
     <string name="pref_summary_desktop_width">Širina displeja u radnom režimu, podesite na veći za manji sadržaj</string>
     <string name="pref_title_no_sponsorship">Sponzorstvo unutar aplikacije nije dostupno</string>
-    <string name="pref_summary_no_sponsorship">Koristite Fulguris iz Google Playa da nas sponzorirate.</string>
+    <string name="pref_summary_no_sponsorship">Koristite Magic iz Google Playa da nas sponzorirate.</string>
     <string name="pref_title_free_download">Besplatno preuzimanje</string>
-    <string name="pref_summary_free_download">Fulguris je softver otvorenog koda. Možete preuzeti naše besplatno izdanje koje uključuje kompletan skup funkcija i neograničene kartice.</string>
+    <string name="pref_summary_free_download">Magic je softver otvorenog koda. Možete preuzeti naše besplatno izdanje koje uključuje kompletan skup funkcija i neograničene kartice.</string>
     <string name="pref_title_sponsorship_github">Sponzorirajte nas na GitHubu</string>
     <string name="pref_summary_sponsorship_github">Možete sponzorirati naš rad na GitHubu kako biste pomogli da ovaj projekat bude uspješan.</string>
     <string name="pref_title_sponsorship_five_stars">Ocena sa pet zvjezdica</string>
     <string name="pref_summary_sponsorship_five_stars">Davanje pet zvjezdica na Google Play je odličan način da pomognete ovom projektu.</string>
     <string name="pref_title_contribute_translations">Prijevodi</string>
-    <string name="pref_summary_contribute_translations">Možete pomoći prevesti Fulguris na svoj lokalni jezik na Crovdinu.</string>
+    <string name="pref_summary_contribute_translations">Možete pomoći prevesti Magic na svoj lokalni jezik na Crovdinu.</string>
     <string name="pref_title_contribute_share">Proširite riječ</string>
-    <string name="pref_summary_contribute_share">Impresionirajte svoje prijatelje i zajednice tako što ćete podijeliti Fulguris s njima.</string>
+    <string name="pref_summary_contribute_share">Impresionirajte svoje prijatelje i zajednice tako što ćete podijeliti Magic s njima.</string>
     <string name="pref_title_language">Jezik</string>
     <string name="language_system_default">Sistemska zadana vrijednost</string>
     <string name="close_tab">Zatvorite karticu</string>
@@ -507,7 +507,7 @@ See: https://stackoverflow.com/a/42884713/3969362
     <string name="tts">Pročitajte stranicu</string>
     <string name="stop_tts">Prestani čitati</string>
     <!-- Application name which can be translated -->
-    <string name="locale_app_name">Fulguris web pretraživač</string>
+    <string name="locale_app_name">Magic web pretraživač</string>
     <!--
     Long press on image link disambiguation:
         When user does a long press on a page element containing both an image and link we ask her which one she wants to use.

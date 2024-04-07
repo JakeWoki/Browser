@@ -125,9 +125,9 @@
     <string name="licenses">Open-bron licenties</string>
     <string name="suggestion">Zoek voor</string>
     <string name="checking_for_updates">Controleren op updates…</string>
-    <string name="title_updated">Fulguris werd bijgewerkt</string>
+    <string name="title_updated">Magic werd bijgewerkt</string>
     <string name="message_updated">Je draait nu v%s. Wilt u de release-opmerkingen online bekijken?</string>
-    <string name="title_welcome">Welkom bij Fulguris</string>
+    <string name="title_welcome">Welkom bij Magic</string>
     <string name="message_welcome">Bezoek onze homepage voor meer informatie over deze krachtige webbrowser?</string>
     <!-- Ad block -->
     <string name="block_ads">Controle over inhoud</string>
@@ -256,7 +256,7 @@
     <string name="settings_privacy">Privacy instellingen</string>
     <string name="settings_about">Over</string>
     <string name="settings_contribute">Help mee</string>
-    <string name="settings_summary_contribute">Help Fulguris groeien en slagen</string>
+    <string name="settings_summary_contribute">Help Magic groeien en slagen</string>
     <string name="settings_title_privacy_policy">Privacybeleid</string>
     <string name="settings_summary_privacy_policy">Bekijk ons privacybeleid online</string>
     <string name="settings_title_terms_and_conditions">Algemene voorwaarden</string>
@@ -303,17 +303,17 @@
     <string name="pref_title_desktop_width">Desktop breedte</string>
     <string name="pref_summary_desktop_width">Beeldschermbreedte in desktopmodus, stel deze hoger in voor kleinere inhoud</string>
     <string name="pref_title_no_sponsorship">In-app sponsoring niet beschikbaar</string>
-    <string name="pref_summary_no_sponsorship">Gebruik Fulguris van Google Play om ons te sponsoren.</string>
+    <string name="pref_summary_no_sponsorship">Gebruik Magic van Google Play om ons te sponsoren.</string>
     <string name="pref_title_free_download">Download gratis</string>
-    <string name="pref_summary_free_download">Fulguris is Open-bron Software. Je kunt onze gratis editie downloaden, inclusief de volledige functieset en onbeperkte tabbladen.</string>
+    <string name="pref_summary_free_download">Magic is Open-bron Software. Je kunt onze gratis editie downloaden, inclusief de volledige functieset en onbeperkte tabbladen.</string>
     <string name="pref_title_sponsorship_github">Sponsor ons op GitHub</string>
     <string name="pref_summary_sponsorship_github">Je kunt ons werk sponsoren op GitHub om te helpen dit project tot een succes te maken.</string>
     <string name="pref_title_sponsorship_five_stars">Vijf sterren beoordeling</string>
     <string name="pref_summary_sponsorship_five_stars">Door ons een vijf sterren recensie te geven op Google Play help je dit project.</string>
     <string name="pref_title_contribute_translations">Vertalingen</string>
-    <string name="pref_summary_contribute_translations">Je kunt helpen bij het vertalen van Fulguris naar jouw taal op Crowdin.</string>
+    <string name="pref_summary_contribute_translations">Je kunt helpen bij het vertalen van Magic naar jouw taal op Crowdin.</string>
     <string name="pref_title_contribute_share">Vertel het door</string>
-    <string name="pref_summary_contribute_share">Verblind je vrienden en gemeenschappen door Fulguris met ze te delen.</string>
+    <string name="pref_summary_contribute_share">Verblind je vrienden en gemeenschappen door Magic met ze te delen.</string>
     <string name="pref_title_language">Taal</string>
     <string name="language_system_default">Systeem default</string>
     <string name="close_tab">Sluit tabblad</string>
@@ -505,7 +505,7 @@ See: https://stackoverflow.com/a/42884713/3969362
     <string name="tts">Lees pagina</string>
     <string name="stop_tts">Stop met lezen</string>
     <!-- Application name which can be translated -->
-    <string name="locale_app_name">Fulguris webbrowser</string>
+    <string name="locale_app_name">Magic webbrowser</string>
     <!--
     Long press on image link disambiguation:
         When user does a long press on a page element containing both an image and link we ask her which one she wants to use.

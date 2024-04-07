@@ -125,9 +125,9 @@
     <string name="licenses">Licenze Open Source</string>
     <string name="suggestion">Cerca</string>
     <string name="checking_for_updates">Controllando gli aggiornamenti…</string>
-    <string name="title_updated">Fulguris è stato aggiornato</string>
+    <string name="title_updated">Magic è stato aggiornato</string>
     <string name="message_updated">Ora stai eseguendo v%s. Vuoi controllare le note di rilascio online?</string>
-    <string name="title_welcome">Benvenuti a Fulguris</string>
+    <string name="title_welcome">Benvenuti a Magic</string>
     <string name="message_welcome">Visita la nostra home page per saperne di più su questo potente browser web?</string>
     <!-- Ad block -->
     <string name="block_ads">Controllo contenuti</string>
@@ -256,7 +256,7 @@
     <string name="settings_privacy">Privacy</string>
     <string name="settings_about">Informazioni</string>
     <string name="settings_contribute">Contribuire</string>
-    <string name="settings_summary_contribute">Aiuta Fulguris a crescere e avere successo</string>
+    <string name="settings_summary_contribute">Aiuta Magic a crescere e avere successo</string>
     <string name="settings_title_privacy_policy">Informativa sulla privacy</string>
     <string name="settings_summary_privacy_policy">Vedi la nostra politica sulla privacy online</string>
     <string name="settings_title_terms_and_conditions">Termini e Condizioni</string>
@@ -303,17 +303,17 @@
     <string name="pref_title_desktop_width">Larghezza desktop</string>
     <string name="pref_summary_desktop_width">Larghezza della vista modalità desktop, impostala più alta per contenuti più piccoli</string>
     <string name="pref_title_no_sponsorship">Sponsorizzazione in-app non disponibile</string>
-    <string name="pref_summary_no_sponsorship">Usa Fulguris da Google Play per sponsorizzarci.</string>
+    <string name="pref_summary_no_sponsorship">Usa Magic da Google Play per sponsorizzarci.</string>
     <string name="pref_title_free_download">Download gratuito</string>
-    <string name="pref_summary_free_download">Fulguris è Open Source Software. È possibile scaricare la nostra edizione gratuita, tra cui set completo di funzionalità e schede illimitate.</string>
+    <string name="pref_summary_free_download">Magic è Open Source Software. È possibile scaricare la nostra edizione gratuita, tra cui set completo di funzionalità e schede illimitate.</string>
     <string name="pref_title_sponsorship_github">Sponsorizzaci su Github</string>
     <string name="pref_summary_sponsorship_github">Puoi sponsorizzare il nostro lavoro su GitHub per contribuire a rendere questo progetto un successo.</string>
     <string name="pref_title_sponsorship_five_stars">Recensione a cinque stelle</string>
     <string name="pref_summary_sponsorship_five_stars">Darci una recensione di cinque stelle su Google Play è un ottimo modo per aiutare questo progetto.</string>
     <string name="pref_title_contribute_translations">Traduzioni</string>
-    <string name="pref_summary_contribute_translations">Puoi aiutare a tradurre Fulguris nella tua lingua locale su Crowdin.</string>
+    <string name="pref_summary_contribute_translations">Puoi aiutare a tradurre Boundary nella tua lingua locale su Crowdin.</string>
     <string name="pref_title_contribute_share">Diffondere la parola</string>
-    <string name="pref_summary_contribute_share">Abbaglia i tuoi amici e le tue comunità condividendo Fulguris con loro.</string>
+    <string name="pref_summary_contribute_share">Abbaglia i tuoi amici e le tue comunità condividendo Boundary con loro.</string>
     <string name="pref_title_language">Lingua</string>
     <string name="language_system_default">Predefinito del sistema</string>
     <string name="close_tab">Chiudi scheda</string>
@@ -505,7 +505,7 @@ See: https://stackoverflow.com/a/42884713/3969362
     <string name="tts">Leggi pagina</string>
     <string name="stop_tts">Interrompi lettura</string>
     <!-- Application name which can be translated -->
-    <string name="locale_app_name">Fulguris Web Browser</string>
+    <string name="locale_app_name">Boundary Web Browser</string>
     <!--
     Long press on image link disambiguation:
         When user does a long press on a page element containing both an image and link we ask her which one she wants to use.
